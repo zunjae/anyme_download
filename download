@@ -1,7 +1,7 @@
 {
   "version": "3.92901",
   "link": "https://github.com/zunjae/anyme_download/releases/download/DownloadLink/anYme.apk",
-  "adblock_version": "5",
+  "adblock_version": "6",
   "adblock_link": "https://github.com/zunjae/anYme_download/xxxx",
   "short_description": "New backend for anYme & After this update you're no longer forced to update the app if you haven't used it for a while"
 }
