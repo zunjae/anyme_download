@@ -6,7 +6,7 @@
    "show_feedback_button": false,
    "browser_version":"6",
    "nsfw_filter_version":"11",
-   "force_update": false,
+   "force_update": true,
    "changelog_url":"https://www.reddit.com/r/anYme/comments/81zu7g/big_anyme_app_update_version_5_not_clickbait/",
-   "short_description":"Huge update! New sources and lots of bug fixes!"
+   "short_description":"Huge update! New sources and lots of bug fixes! (and Android 4.4 support)"
 }
