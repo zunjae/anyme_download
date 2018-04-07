@@ -1,7 +1,7 @@
 {
    "version":"5.000",
    "link":"https://github.com/zunjae/anyme_download/releases/download/DownloadLink/anYme.apk",
-   "adblock_version":"66",
+   "adblock_version":"67",
    "advanced_adblock": true,
    "show_feedback_button": false,
    "browser_version":"6",
