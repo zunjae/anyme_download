@@ -6,10 +6,10 @@
    "show_feedback_button": false,
    "browser_version":"6",
    "nsfw_filter_version":"13",
-   "force_update": true,
+   "force_update": false,
    "intercept_rapidvideo": true,
    "jikan_anime": "http://api.jikan.moe/anime/%d",
    "alt_api": true,
    "changelog_url":"https://www.reddit.com/r/anYme/comments/8mka5f/anyme_app_is_back_update/",
-   "short_description":"MyAnimeList works again!"
+   "short_description":"MyAnimeList API updated!"
 }
