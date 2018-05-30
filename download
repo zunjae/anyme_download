@@ -1,7 +1,7 @@
 {
-   "version":"5.714",
+   "version":"5.715",
    "link":"https://github.com/zunjae/anyme_download/releases/download/DownloadLink/anYme.apk",
-   "adblock_version":"73",
+   "adblock_version":"74",
    "advanced_adblock": true,
    "show_feedback_button": false,
    "browser_version":"6",
@@ -11,5 +11,5 @@
    "jikan_anime": "http://api.jikan.moe/anime/%d",
    "alt_api": true,
    "changelog_url":"https://www.reddit.com/r/anYme/comments/8mka5f/anyme_app_is_back_update/",
-   "short_description":"MyAnimeList API updated!"
+   "short_description":"Removed login screen"
 }
