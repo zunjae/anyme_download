@@ -6,7 +6,7 @@
    "show_feedback_button": false,
    "browser_version":"6",
    "nsfw_filter_version":"13",
-   "force_update": false,
+   "force_update": true,
    "intercept_rapidvideo": true,
    "jikan_anime": "http://api.jikan.moe/anime/%d",
    "alt_api": true,
