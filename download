@@ -8,7 +8,7 @@
    "nsfw_filter_version":"13",
    "force_update": true,
    "intercept_rapidvideo": true,
-   "jikan_anime": "http://api.jikan.moe/anime/%d",
+   "jikan_anime": "https://api.jikan.moe/anime/%d",
    "alt_api": true,
    "login_completed_endpoint": "https://myanimelist.net/",
    "changelog_url":"https://www.reddit.com/r/anYme/comments/8pdozo/anyme_app_update_575_fixed_loginprofile_sync/",
