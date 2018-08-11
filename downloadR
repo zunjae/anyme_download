@@ -6,7 +6,7 @@
    "browser_version":"6",
    "nsfw_filter_version":"13",
    "force_update": true,
-   "intercept_rapidvideo": false,
+   "intercept_rapidvideo": true,
    "jikan_anime": "https://api.jikan.moe/anime/%d",
    "alt_api": true,
    "login_completed_endpoint": "https://myanimelist.net/",
