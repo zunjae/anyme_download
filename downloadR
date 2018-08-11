@@ -1,0 +1,15 @@
+{
+   "version":"5.75",
+   "link":"http://anymeapp.com/apk",
+   "adblock_version":"80",
+   "advanced_adblock": true,
+   "browser_version":"6",
+   "nsfw_filter_version":"13",
+   "force_update": true,
+   "intercept_rapidvideo": false,
+   "jikan_anime": "https://api.jikan.moe/anime/%d",
+   "alt_api": true,
+   "login_completed_endpoint": "https://myanimelist.net/",
+   "changelog_url":"https://www.reddit.com/r/anYme/comments/8pdozo/anyme_app_update_575_fixed_loginprofile_sync/",
+   "short_description":"Fix not being able to login + profile sync"
+}
