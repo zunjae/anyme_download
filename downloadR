@@ -1,5 +1,5 @@
 {
-   "version":"6.006",
+   "version":"6.3",
    "link":"http://anymeapp.com/apk",
    "adblock_version":"83",
    "advanced_adblock": true,
@@ -10,6 +10,6 @@
    "jikan_anime": "https://api.jikan.moe/anime/%d",
    "alt_api": true,
    "login_completed_endpoint": "https://myanimelist.net/",
-   "changelog_url":"https://www.reddit.com/r/anYme/comments/99660y/anymer_release/",
+   "changelog_url":"https://www.reddit.com/r/anYme/comments/9fl86l/anyme_app_update_63_hotfix/",
    "short_description":"AnYme-R which contains plenty of bug fixes!"
 }
