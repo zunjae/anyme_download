@@ -11,5 +11,5 @@
    "alt_api": true,
    "login_completed_endpoint": "https://myanimelist.net/",
    "changelog_url":"https://www.reddit.com/r/anYme/comments/9fl86l/anyme_app_update_63_hotfix/",
-   "short_description":"AnYme-R which contains plenty of bug fixes!"
+   "short_description":"AnYme update which contains plenty of bug fixes!"
 }
