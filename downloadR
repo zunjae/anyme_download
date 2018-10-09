@@ -5,7 +5,7 @@
    "advanced_adblock": true,
    "browser_version":"6",
    "nsfw_filter_version":"14",
-   "force_update": false,
+   "force_update": true,
    "intercept_rapidvideo": false,
    "jikan_anime": "https://api.jikan.moe/anime/%d",
    "alt_api": true,
