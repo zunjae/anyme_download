@@ -1,11 +1,11 @@
 {
    "version":"7.03",
    "link":"http://anymeapp.com/apk",
-   "adblock_version":"111",
+   "adblock_version":"112",
    "advanced_adblock": true,
    "browser_version":"6",
    "nsfw_filter_version":"14",
-   "force_update": true,
+   "force_update": false,
    "intercept_rapidvideo": false,
    "jikan_anime": "https://api.jikan.moe/anime/%d",
    "alt_api": true,
