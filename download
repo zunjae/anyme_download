@@ -1,5 +1,5 @@
 {
-   "version":"7.03",
+   "version":"8.01",
    "link":"http://anymeapp.com/apk",
    "adblock_version":"114",
    "advanced_adblock": true,
@@ -11,5 +11,5 @@
    "alt_api": true,
    "login_completed_endpoint": "https://myanimelist.net/",
    "changelog_url":"https://www.reddit.com/r/anYme/comments/a4nv9p/anyme_app_update_7/?",
-   "short_description":"A new user interface, new sources + lots of bugs fixed"
+   "short_description":"AnYme v8"
 }
